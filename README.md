@@ -10,4 +10,10 @@ You can download the script here
 3. Save e.g. B. as: notepad-spam.js
 
 4. Double click on the file (Windows Script Host starts it)
-   
+
+# ⚠️ WARNING
+This script repeatedly opens the Windows editor (Notepad).
+
+If used carelessly, it can severely slow down or crash the system.
+
+Use at your own risk.
