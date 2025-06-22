@@ -1,0 +1,6 @@
+var shell = new ActiveXObject("WScript.Shell");
+
+for (var i = 0; i < 15; i++) {
+  shell.Run("notepad.exe");
+  WScript.Sleep(500);
+}
