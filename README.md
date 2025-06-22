@@ -1,6 +1,7 @@
 # Windows-troll
 You can troll your friends with the script. This script open notepad infinite times.
-You can download the script here
+You can download the script [here](https://raw.githubusercontent.com/Kaanxsxs/Windows-hack/main/Infinite%20open)
+
 # 📌 Execute:
 
 1. Open Notepad
